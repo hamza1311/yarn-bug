@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "workspaces": [
+    "foobar"
+  ],
+  "packageManager": "yarn@3.6.1"
+}
